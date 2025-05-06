@@ -82,7 +82,7 @@ int main(int argc, char *argv[]) {
 ```
 ## OUTPUT
 
-![](img/IPCS.png)
+![os4](https://github.com/user-attachments/assets/f41ffa21-70c6-4a6f-ace9-e23913816a87)
 
 
 
